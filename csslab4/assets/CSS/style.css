@@ -67,3 +67,18 @@ footer>p {
     border-top: 2px solid #000000;
     padding-top: 10px;
 }
+
+/* Flex */
+#flex-container {
+    display:flex;
+}
+
+.joke {
+    padding: 10px;
+}
+
+/* Form */
+form p{
+    display: inline-block;
+    min-width: 250px;
+}
