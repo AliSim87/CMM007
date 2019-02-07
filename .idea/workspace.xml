@@ -101,7 +101,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -112,17 +111,13 @@
             <path>
               <item name="CMM007" type="b2602c69:ProjectViewProjectNode" />
               <item name="CMM007" type="462c0819:PsiDirectoryNode" />
-              <item name="csslab3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CMM007" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CMM007" type="462c0819:PsiDirectoryNode" />
               <item name="csslab4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -182,7 +177,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6699000" />
+    <option name="totallyTimeSpent" value="6963000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
