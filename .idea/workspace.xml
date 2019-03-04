@@ -2,27 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="379099ed-6920-418b-887f-827428134f48" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/cookieslab/bakingcookies.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookieslab/checklogin.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookieslab/checklogin2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookieslab/homepage.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookieslab/homepage2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookieslab/sessiondata.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/databaselab/after2010.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/databaselab/dbconnect.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/databaselab/displayall.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/databaselab/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/databaselab/moviesbymarvel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/databaselab/xmen.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getpostlab/createSuperhero.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getpostlab/getPrinter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getpostlab/getSelector.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getpostlab/newsuperhero.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getpostlab/superheroResponse.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phplogin/dbconnect.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phplogin/home.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phplogin/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phplogin/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/superherodirectory/battle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/superherodirectory/dbconnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/superherodirectory/displaybattle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/superherodirectory/displaysuperheros.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/superherodirectory/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/superherodirectory/insertbattle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/superherodirectory/insertsuperhero.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/superherodirectory/superheroform.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,46 +22,69 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="dbconnect.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/phplogin/dbconnect.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/superherodirectory/dbconnect.php">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/phplogin/login.php">
+      <file leaf-file-name="superheroform.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/superherodirectory/superheroform.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+              <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/phplogin/home.php">
+      <file leaf-file-name="insertsuperhero.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/superherodirectory/insertsuperhero.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+            <state relative-caret-position="136">
+              <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="displayall.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/databaselab/displayall.php">
+      <file leaf-file-name="battle.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/superherodirectory/battle.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="10" lean-forward="true" selection-start-line="7" selection-end-line="18" />
+            <state relative-caret-position="374">
+              <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="insertbattle.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/superherodirectory/insertbattle.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="displaybattle.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/superherodirectory/displaybattle.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="displaysuperheros.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/superherodirectory/displaysuperheros.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/phplogin/index.php">
+        <entry file="file://$PROJECT_DIR$/superherodirectory/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+            <state relative-caret-position="408">
+              <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -131,6 +141,13 @@
         <option value="$PROJECT_DIR$/phplogin/index.php" />
         <option value="$PROJECT_DIR$/phplogin/login.php" />
         <option value="$PROJECT_DIR$/phplogin/home.php" />
+        <option value="$PROJECT_DIR$/superherodirectory/superheroform.html" />
+        <option value="$PROJECT_DIR$/superherodirectory/displaysuperheros.php" />
+        <option value="$PROJECT_DIR$/superherodirectory/index.php" />
+        <option value="$PROJECT_DIR$/superherodirectory/insertsuperhero.php" />
+        <option value="$PROJECT_DIR$/superherodirectory/insertbattle.php" />
+        <option value="$PROJECT_DIR$/superherodirectory/battle.php" />
+        <option value="$PROJECT_DIR$/superherodirectory/displaybattle.php" />
       </list>
     </option>
   </component>
@@ -143,11 +160,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="532" />
-    <option name="y" value="324" />
-    <option name="width" value="2396" />
-    <option name="height" value="840" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1420" />
+    <option name="y" value="156" />
+    <option name="width" value="2196" />
+    <option name="height" value="1882" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -157,6 +174,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,13 +185,17 @@
             <path>
               <item name="Labs" type="b2602c69:ProjectViewProjectNode" />
               <item name="Labs" type="462c0819:PsiDirectoryNode" />
-              <item name="databaselab" type="462c0819:PsiDirectoryNode" />
+              <item name="phplogin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Labs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Labs" type="462c0819:PsiDirectoryNode" />
+              <item name="superherodirectory" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -182,15 +204,16 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="H:\PHPStorm\CMM007\bootstraplab6\assets\images" />
-      <recent name="H:\PHPStorm\CMM007\apilab5\assets\CSS" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="H:\PHPStorm\CMM007\bootstraplab6\assets\CSS" />
       <recent name="H:\PHPStorm\csslab3\csslab3" />
       <recent name="H:\PHPStorm" />
       <recent name="C:\Users\0706693\PhpstormProjects\csslab3\assets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="Q:\Labs\superherodirectory" />
+      <recent name="H:\PHPStorm\CMM007\bootstraplab6\assets\images" />
+      <recent name="H:\PHPStorm\CMM007\apilab5\assets\CSS" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -222,7 +245,8 @@
       <workItem from="1549879042229" duration="4848000" />
       <workItem from="1550158495941" duration="1258000" />
       <workItem from="1550480189820" duration="8154000" />
-      <workItem from="1551087895164" duration="6909000" />
+      <workItem from="1551087895164" duration="7056000" />
+      <workItem from="1551693063375" duration="4960000" />
     </task>
     <task id="LOCAL-00001" summary="final">
       <created>1549278863126</created>
@@ -273,17 +297,24 @@
       <option name="project" value="LOCAL" />
       <updated>1550491634950</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="25/2/19">
+      <created>1551094921180</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1551094921180</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30619000" />
+    <option name="totallyTimeSpent" value="35726000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="266" y="162" width="1198" height="420" extended-state="0" />
+    <frame x="157" y="41" width="1098" height="941" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24577703" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21309963" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3280757" />
@@ -313,65 +344,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="final" />
-    <option name="LAST_COMMIT_MESSAGE" value="final" />
+    <MESSAGE value="25/2/19" />
+    <option name="LAST_COMMIT_MESSAGE" value="25/2/19" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/csslab4/assets/CSS/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/csslab3/assets/CSS/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="11" selection-start-line="8" selection-end-line="27" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/csslab3/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="39" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/csslab4/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="38" selection-start-line="16" selection-end-line="19" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/csslab4/favourite.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/csslab4/assets/CSS/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/csslab3/assets/CSS/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="11" selection-start-line="8" selection-end-line="27" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/csslab3/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/csslab3/assets/CSS/templatecolours.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -586,11 +562,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="93">
           <caret line="9" column="22" selection-end-line="28" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -629,16 +600,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/phplogin/dbconnect.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/phplogin/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="425">
           <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
         </state>
       </provider>
@@ -657,17 +621,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/phplogin/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/databaselab/displayall.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="10" lean-forward="true" selection-start-line="7" selection-end-line="18" />
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="7" selection-end-line="18" />
         </state>
       </provider>
     </entry>
@@ -675,6 +632,72 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phplogin/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phplogin/dbconnect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/superherodirectory/dbconnect.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/superherodirectory/displaysuperheros.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/superherodirectory/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/superherodirectory/insertsuperhero.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/superherodirectory/superheroform.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/superherodirectory/battle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/superherodirectory/insertbattle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/superherodirectory/displaybattle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
         </state>
       </provider>
     </entry>
